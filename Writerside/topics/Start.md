@@ -1,10 +1,19 @@
 # Start
 
+## :heavy_exclamation_mark: **注意：本文档仅适用于SZU-VCC当前装备的Husky。**
+
 ## 前言
 Husky 是一款坚固且易于使用的无人地面机器人，可用于快速原型设计和研究应用。
 基于运行 Ubuntu 的计算机（基于 Intel 的计算机或 Jetson 开发套件）构建，配有32位微控制器MCU负责电源监控和电机控制。
 MCU和计算机之间的通信通道是串行连接。
 
+
+<p>
+  <strong style="color:#ff0000;">  
+  :heavy_exclamation_mark::heavy_exclamation_mark:
+  如果设备没有问题，或您是第一次使用设备，请从 [ <a href="快速开始.md">快速开始</a> ] 开始。:heavy_exclamation_mark::heavy_exclamation_mark:
+  </strong>
+</p>
 
 ## 目录
 - [硬件手册](硬件手册.md)
