@@ -6,7 +6,6 @@
                  name="Help Instance"
                  start-page="Husky操作手册.md">
 
-    <toc-element topic="调试日志.md"/>
     <toc-element topic="Husky操作手册.md">
         <toc-element topic="硬件手册.md">
             <toc-element topic="Husky本体.md"/>
@@ -31,5 +30,6 @@
         <toc-element topic="Husky仿真.md"/>
     </toc-element>
     <toc-element topic="参观演示.md"/>
+    <toc-element topic="快速开始.md"/>
 </instance-profile>
 

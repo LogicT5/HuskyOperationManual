@@ -5,7 +5,6 @@
 <instance-profile id="Writerside_libraries"
                   name="Writerside_libraries" is-library="true">
 
-    <toc-element topic="调试日志.md"/>
     <toc-element topic="Husky操作手册.md">
         <toc-element topic="硬件手册.md">
             <toc-element topic="Husky本体.md"/>
