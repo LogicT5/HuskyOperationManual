@@ -23,10 +23,11 @@
             <toc-element topic="Husky连接以太网.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="其他操作.md">
-        <toc-element topic="添加自定义区域.md"/>
-        <toc-element topic="真机开发.md"/>
+    <toc-element topic="开发手册.md">
+        <toc-element topic="Husky真机上开发.md"/>
+        <toc-element topic="外置PC上的协同开发.md"/>
         <toc-element topic="Husky仿真.md"/>
     </toc-element>
     <toc-element topic="参观演示.md"/>
+    <toc-element topic="快速开始.md"/>
 </instance-profile>
