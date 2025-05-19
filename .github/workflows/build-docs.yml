@@ -7,7 +7,7 @@ on:
 
 permissions:
   id-token: write
-  pages: read
+  pages: write
 
 env:
   INSTANCE: 'Writerside/hi'
