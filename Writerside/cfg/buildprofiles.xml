@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <shortcuts>
+        <layout name="Windows" display-name="Windows"/>
+        <layout name="macOS" display-name="macOS"/>
+        <layout name="GNOME" display-name="Linux"/>
+    </shortcuts>
+    <build-profile instance="in">
+        <variables>
+            <resizable-sidebar>true</resizable-sidebar>
+            <noindex-content>false</noindex-content>
+            <offline-docs>true</offline-docs>
+        </variables>
+    </build-profile>
+    <footer>
+        <copyright>Visual Computing Research Center Shenzhen University, China</copyright>
+        <link href="">TianHuan</link>
+        <link href="https://vcc.tech/index">vcc@szu.edu</link>
+        <social type="email" href="thndy000@gmail.com"> </social>
+    </footer>
+</buildprofiles>
+
+
