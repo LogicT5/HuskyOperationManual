@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Husky操作手册"
+                 name="Help Instance"
                  start-page="Husky操作手册.md">
 
     <toc-element topic="调试日志.md"/>
@@ -32,3 +32,4 @@
     </toc-element>
     <toc-element topic="参观演示.md"/>
 </instance-profile>
+
