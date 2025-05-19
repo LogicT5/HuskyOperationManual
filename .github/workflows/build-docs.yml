@@ -5,6 +5,10 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
+permissions:
+  id-token: write
+  pages: read
+
 env:
   INSTANCE: 'Writerside/hi'
   DOCKER_VERSION: '243.22562'
