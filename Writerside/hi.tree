@@ -6,30 +6,32 @@
                  name="Help Instance"
                  start-page="Husky操作手册.md">
 
-    <toc-element topic="Husky操作手册.md">
-        <toc-element topic="硬件手册.md">
-            <toc-element topic="Husky本体.md"/>
-            <toc-element topic="Axis-5525-E-Camera.md"/>
-            <toc-element topic="Microhard-pX2-ENC-Router-GPS.md"/>
-            <toc-element topic="Quanergy-M8.md"/>
-            <toc-element topic="LMS-151-LIDAR.md"/>
-            <toc-element topic="禾赛雷达.md"/>
-            <toc-element topic="IMU.md"/>
+    <toc-element topic="Start.md">
+        <toc-element topic="Husky操作手册.md">
+            <toc-element topic="硬件手册.md">
+                <toc-element topic="Husky本体.md"/>
+                <toc-element topic="Axis-5525-E-Camera.md"/>
+                <toc-element topic="Microhard-pX2-ENC-Router-GPS.md"/>
+                <toc-element topic="Quanergy-M8.md"/>
+                <toc-element topic="LMS-151-LIDAR.md"/>
+                <toc-element topic="禾赛雷达.md"/>
+                <toc-element topic="IMU.md"/>
+            </toc-element>
+            <toc-element topic="网络操作教程.md">
+                <toc-element topic="网络结构.md"/>
+                <toc-element topic="外置PC连接Husky.md"/>
+                <toc-element topic="ssh连接Husky主机.md"/>
+                <toc-element topic="多主机的主从机配置.md"/>
+                <toc-element topic="Husky连接以太网.md"/>
+            </toc-element>
         </toc-element>
-        <toc-element topic="网络操作教程.md">
-            <toc-element topic="网络结构.md"/>
-            <toc-element topic="外置PC连接Husky.md"/>
-            <toc-element topic="ssh连接Husky主机.md"/>
-            <toc-element topic="多主机的主从机配置.md"/>
-            <toc-element topic="Husky连接以太网.md"/>
+        <toc-element topic="开发手册.md">
+            <toc-element topic="Husky真机上开发.md"/>
+            <toc-element topic="外置PC上的协同开发.md"/>
+            <toc-element topic="Husky仿真.md"/>
         </toc-element>
+        <toc-element topic="快速开始.md"/>
+        <toc-element topic="参观演示.md"/>
     </toc-element>
-    <toc-element topic="开发手册.md">
-        <toc-element topic="Husky真机上开发.md"/>
-        <toc-element topic="外置PC上的协同开发.md"/>
-        <toc-element topic="Husky仿真.md"/>
-    </toc-element>
-    <toc-element topic="参观演示.md"/>
-    <toc-element topic="快速开始.md"/>
 </instance-profile>
 
