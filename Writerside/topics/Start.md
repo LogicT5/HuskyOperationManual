@@ -16,7 +16,8 @@ MCU和计算机之间的通信通道是串行连接。
 </p>
 
 ## 目录
-- [硬件手册](硬件手册.md)
+- [Husky硬件操作手册](Husky操作手册.md)
+  - [硬件手册](硬件手册.md)
     - [Husky本体](Husky本体.md)
     - [Axis 5525-E Camera](Axis-5525-E-Camera.md)
     - [Microhard-pX2-ENC-Router-GPS](Microhard-pX2-ENC-Router-GPS.md)
@@ -24,12 +25,19 @@ MCU和计算机之间的通信通道是串行连接。
     - [LMS-151-LIDAR](LMS-151-LIDAR.md)
     - [禾赛雷达](禾赛雷达.md)
     - [IMU](IMU.md)
-- [网络操作教程](网络操作教程.md)
+  - [网络操作教程](网络操作教程.md)
     - [网络结构](网络结构.md)
     - [外置PC连接Husky](外置PC连接Husky.md)
     - [ssh连接Husky主机](ssh连接Husky主机.md)
     - [多主机的主从机配置](多主机的主从机配置.md)
     - [Husky连接以太网](Husky连接以太网.md)
+- [开发手册](开发手册.md)
+    - [快捷命令](快捷命令.md)
+    - [Husky真机上开发](Husky真机上开发.md)
+    - [外置PC上的协同开发](外置PC上的协同开发.md)
+    - [Husky仿真](Husky仿真.md)
 - [快速开始](快速开始.md)
 - [参观演示](参观演示.md)
+- [采集数据](采集数据.md)
+- [日常维护-电池充电](日常维护-电池充电.md)
 
